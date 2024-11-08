@@ -70,6 +70,7 @@ const Contact = () => {
                 </motion.form>
             </div>
         </motion.div>
+        //helooooooooo every one
     )
 }
 
